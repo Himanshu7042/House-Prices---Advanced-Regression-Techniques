@@ -76,4 +76,4 @@ Here's a brief overview of the data fields:
 
 ### Kaggle Link
 
-[https://www.kaggle.com/code/himanshu604/house-price-predict-2](#)
+[Click here](https://www.kaggle.com/code/himanshu604/house-price-predict-2)
